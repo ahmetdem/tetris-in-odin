@@ -7,7 +7,7 @@
 
 ## Demo
 
-<video src="https://github.com/ahmetdem/tetris-in-odin/raw/main/tetris.mp4" controls></video>
+https://github.com/user-attachments/assets/eaa5b285-dd9b-4aa1-9f5b-9f4770037a01
 
 ## Usage
 Just install the [Odin Compiler](https://odin-lang.org/) and type:
