@@ -5,6 +5,10 @@
 
 - Odin was super fun to code on and very user friendly. Especially in these times where OOP is everywhere, Odin really brought me fresh air. Will continue to use it on my other Projects!
 
+## Demo
+
+<video src="https://github.com/ahmetdem/tetris-in-odin/raw/main/tetris.mp4" controls></video>
+
 ## Usage
 Just install the [Odin Compiler](https://odin-lang.org/) and type:
 ```bash
